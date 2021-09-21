@@ -61,4 +61,4 @@ After we're done with this, we will compare different approaches and we will mak
  
 ## Summary
 
-As we can observe, the results of all of our models are quite accurate but not very precise. This means that we are not flagging 
+As we can observe, the results of all of our models are quite accurate ( above 50% in balance ) but they are not very precise ( very low precision, specifically on high_risk credits ). This means that we are not flagging high risk credits appropriately and this models shouldn't be used for this specific purpose. We can also observe that our f1 scores are pretty low across the board for high_risk transactions which are very sensitive for this type of analysis, hence we would suggest looking for other alternatives to model this type of problem. 
