@@ -11,8 +11,10 @@ After we're done with this, we will compare different approaches and we will mak
 ### Oversampling
 1 Naive Random Oversampling 
   - Balanced Accuracy Score
+
 ![Balanced Accuracy Score](Resources/Images/1_Random_Oversampling_Balanced_Accuracy.png)
   - Imbalanced Classification Report 
+
 ![Imbalanced Classification Report](Resources/Images/1_Random_Oversampling.png)
 
 2 SMOTE
