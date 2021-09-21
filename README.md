@@ -60,3 +60,5 @@ After we're done with this, we will compare different approaches and we will mak
 ![Imbalanced Classification Report](Resources/Images/6_EasyEnsembleClassifier.png)
  
 ## Summary
+
+As we can observe, the results of all of our models are quite accurate but not very precise. This means that we are not flagging 
